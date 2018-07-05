@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464197917919",
+    "firebase_url": "https://phlinventory-bbefa.firebaseio.com",
+    "project_id": "phlinventory-bbefa",
+    "storage_bucket": "phlinventory-bbefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464197917919:android:6bdcf812c464879a",
+        "android_client_info": {
+          "package_name": "ve.com.phl.phlinventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464197917919-e6b0cans1v7t7764j9rq6erndrare0i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ve.com.phl.phlinventory",
+            "certificate_hash": "1b6c9d89688a031ff2aff503a850474a1b9e9f9c"
+          }
+        },
+        {
+          "client_id": "464197917919-viir8pdjnogaeleba5p5u129bjpt5hek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FKKTo-mLTzJAzkFFA5oicc2jigVSFUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464197917919-viir8pdjnogaeleba5p5u129bjpt5hek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
